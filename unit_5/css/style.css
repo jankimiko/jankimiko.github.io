@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Cherry+Cream+Soda|Open+Sans');
+
+body {
+	text-align: left;
+	background-image: url("http://www.physiotherapistsedinburgh.co.uk/wp-content/uploads/2015/06/neck-pain-300x300.jpg");
+	background-size: 60%;
+	background-repeat:no-repeat;
+	background-position: right top;
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 2cm;
+	padding-top: 50px;
+}
+
+#slogan {
+	font-style: italic;
+	margin-left: 4cm;
+}
+
+h1 {
+	font-family: 'Cherry Cream Soda', cursive;
+	color: #FF6208;
+	font-size: 50px;
+}
+
+h2 {
+	font-family: 'Cherry Cream Soda', cursive;
+	color: #FF6208;
+	font-size: 40px;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	margin-right: 18cm;
+} 
+
+ul li {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+}
