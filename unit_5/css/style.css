@@ -7,14 +7,50 @@ body {
 	background-repeat:no-repeat;
 	background-position: right top;
 	color: #000;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
 	margin-left: 2cm;
 	padding-top: 50px;
 }
 
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+    }
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
 #slogan {
 	font-style: italic;
-	margin-left: 4cm;
 }
 
 h1 {
@@ -26,16 +62,17 @@ h1 {
 h2 {
 	font-family: 'Cherry Cream Soda', cursive;
 	color: #FF6208;
-	font-size: 40px;
+	font-size: 35px;
 }
 
-p {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 18px;
-	margin-right: 18cm;
-} 
+.introduction {
+	margin-right: 19cm;
+}
 
-ul li {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 18px;
+.list {
+	padding-top: 5px;
+}
+
+#two {
+	padding-top: 150px;
 }
