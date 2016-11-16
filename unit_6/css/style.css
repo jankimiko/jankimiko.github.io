@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Cherry+Cream+Soda|Open+Sans');
+
+body {
+	text-align: left;
+	background-image: url("http://www.physiotherapistsedinburgh.co.uk/wp-content/uploads/2015/06/neck-pain-300x300.jpg");
+	background-size: 60%;
+	background-repeat:no-repeat;
+	background-position: right top;
+	color: #000;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	margin-left: 2cm;
+	padding-top: 50px;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+    }
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+h1 {
+	font-family: 'Cherry Cream Soda', cursive;
+	color: #FF6208;
+	font-size: 50px;
+}
+
+h2 {
+	font-family: 'Cherry Cream Soda', cursive;
+	color: #FF6208;
+	font-size: 35px;
+}
+
+.introduction {
+	margin-right: 19cm;
+}
+
+.list {
+	padding-top: 5px;
+}
+
+#two {
+	padding-top: 150px;
+}
+.column {
+	float: left;
+	width: 260px;
+	height: 300px;
+	padding: 20px;
+	margin: 0;
+}
+
+#three_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#column1 {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#column2 {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#column3 {
+	background-color: #E523A3;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
